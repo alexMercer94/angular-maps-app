@@ -20,7 +20,7 @@ import { MaterialModule } from './material.module';
     FormsModule,
     ReactiveFormsModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyAp9T1Hv4pnB9MWxeqRacTLXrV9cTc-mzA'
+      apiKey: '<key>'
     })
   ],
   providers: [],
